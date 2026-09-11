@@ -1,0 +1,14 @@
+{
+  "short_name": "AiTechies Sizes",
+  "name": "AiTechies Social Image Sizes — every social media size in one click",
+  "description": "Upload a logo or banner once and download every Facebook, Instagram, YouTube, X, LinkedIn, TikTok, WhatsApp and Google size as a ZIP. Free, in-browser, an AiTechies Studio product.",
+  "icons": [
+    { "src": "favicon.png", "type": "image/png", "sizes": "64x64" },
+    { "src": "logo192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "logo512.png", "type": "image/png", "sizes": "512x512", "purpose": "any maskable" }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#050505",
+  "background_color": "#050505"
+}
